@@ -6,4 +6,6 @@ body {
 
 header {
     font-size: 64px;
+    font-weight: bold;
+    text-decoration: underline;
 }
